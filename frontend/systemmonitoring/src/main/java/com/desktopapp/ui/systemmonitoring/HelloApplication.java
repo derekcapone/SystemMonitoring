@@ -1,4 +1,4 @@
-package com.systemmonitoring.frontend.systemmonitoringfrontend;
+package com.desktopapp.ui.systemmonitoring;
 
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;

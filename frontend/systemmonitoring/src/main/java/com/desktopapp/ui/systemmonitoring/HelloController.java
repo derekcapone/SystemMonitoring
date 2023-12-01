@@ -1,4 +1,4 @@
-package com.systemmonitoring.frontend.systemmonitoringfrontend;
+package com.desktopapp.ui.systemmonitoring;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
